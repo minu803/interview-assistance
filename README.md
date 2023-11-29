@@ -103,6 +103,7 @@ In my research, I discovered the STAR interview technique along with numerical m
 
 Using this framework, I prepared answers for each question based on my experiences across the numerical spectrum for testing purposes. These responses were then evaluated using the interview assistance application to assess the quality of the feedback. A more detailed list of questions and their answers can be found:
 
+https://docs.google.com/spreadsheets/d/10e91UcLoQtQv6VaELZlrPrxxWrLataqGiFoYuZ3fql0/edit?usp=sharing
 
 For a more nuanced analysis of the answers and evaluations, I selected responses with scores of 1, 3, and 5 during testing. Additionally, I utilized ChatGPT 3.5, GPT-4, and Claude 2 in the testing process.
 
@@ -112,9 +113,12 @@ The result average score for each score category is displayed in the table below
 | Score    | GPT 3.5 | GPT 4 | Claude 2 |
 |----------|---------|-------|----------|
 | Score 1  | 1.33    | 1.33  | 1.00     |
-| Score 3  | 3.67    | 2.67  | -        |
+| Score 3  | 3.67    | 2.67  | 3.33     |
 | Score 5  | 4.33    | 4.00  | 4.33     |
 
+The complete AI evaluation is available at:
+
+https://docs.google.com/document/d/1Q6_3s46wgrV_kvLkhPZz8D8lRWx0rCNLEQnKSAlVwuM/edit?usp=sharing
 
 ## Critical Analysis
 
